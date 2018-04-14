@@ -4,13 +4,12 @@ I accidently fubarred the SSGC WordPress background img. Tom sent me his copy in
 
 ## Sizes
 
-I have 6 .xcf files, with these dims:
+I have 6 .xcf files, with these dims (an excuse to use MD tables):
 
-| Just an excuse to use MD tables |
-|:-------------------------------:|
-|  387x100  | 387x120  |  387x135 |
-|           |          |          |
-|  387x150  | 387x175  |  387x200 |
+| An excuse | to use MD | tables   |
+|:---------:|:---------:|:--------:|
+|  387x100  |  387x120  |  387x135 |
+|  387x150  |  387x175  |  387x200 |
 
 ## Solve the problem (don't admire it)
 
