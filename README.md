@@ -26,7 +26,7 @@ We're using the "ShoreDitch" theme.
 https://wordpress.com/theme/shoreditch
 (Useful links for customization.)
 
-The "pages" all have the same "featured image", except for "Welcome" (which has a honkin' huge image, mostly fills the screen) and "Blog Posts" (where I haven't figured out yet how to display a featured image -- maybe change, in the Customizer, content settings to "use first image as featured image" and then add an image to each blog post).
+The "pages" all have the same "featured image", except for "Welcome" (which has a honkin' huge image, mostly fills the screen) and "Blog Posts".  (To display a featured image there, use the Customizer to change *content settings* to "use first image as featured image"; then, add an image to each blog post).  
 
 The images are pretty crappy -- pixelated and muddy.  I'll check next week whether Tom has better; and I'll try again to find my older stuff.
 
